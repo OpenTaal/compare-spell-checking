@@ -1,0 +1,20 @@
+checker	aspell
+library	0.60.7~20110707-1.3
+language	nl
+dictionary	1:2.10-3
+wordlist	groeneboekje2015_lemmas.txt
+
+total	50221
+correct	42685
+incorrect	7536
+efficiency	85.0%
+
+total space	1439
+correct space	0
+incorrect space	1439
+efficien. space	0.0%
+
+total nospace	48782
+correct nospace	42685
+incorrect nospace	6097
+efficiency nospace	87.5%

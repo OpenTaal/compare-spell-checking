@@ -1,0 +1,20 @@
+checker	hunspell
+library	1.3.3-3
+language	nl
+dictionary	1:2.10-3
+wordlist	groeneboekje2015_lemmas.txt
+
+total	50221
+correct	44262
+incorrect	5959
+efficiency	88.1%
+
+total space	1439
+correct space	3
+incorrect space	1436
+efficien. space	0.2%
+
+total nospace	48782
+correct nospace	44259
+incorrect nospace	4523
+efficiency nospace	90.7%

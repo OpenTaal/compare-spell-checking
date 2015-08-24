@@ -1,4 +1,6 @@
 /groeneboekje*
-/*/groeneboeje*
-/README_nl_NL.txt
-/OpenTaal-210G-verschillen.csv
+/*/groeneboekje*correct*
+/opentaal210g/README_nl_NL.txt
+/opentaal210g/OpenTaal-210G-verschillen.csv
+check_stem.py
+pairs_*

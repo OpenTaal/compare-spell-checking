@@ -1,0 +1,20 @@
+checker	aspell
+library	0.60.7~20110707-1.3
+language	nl
+dictionary	1:2.10-3
+wordlist	groeneboekje2015_flexies.txt
+
+total	77244
+correct	49246
+incorrect	27998
+efficiency	63.8%
+
+total space	9672
+correct space	0
+incorrect space	9672
+efficien. space	0.0%
+
+total nospace	67572
+correct nospace	49246
+incorrect nospace	18326
+efficiency nospace	72.9%

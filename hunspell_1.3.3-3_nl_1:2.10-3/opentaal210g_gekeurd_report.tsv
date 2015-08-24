@@ -1,21 +1,20 @@
-checker 	hunspell
-library 	1.3.3-3
+checker	hunspell
+library	1.3.3-3
 language	nl
 dictionary	1:2.10-3
 wordlist	opentaal210g_gekeurd.txt
 
-total   	165047
-corrrect	164178
+total	165047
+correct	164178
 incorrect	869
 efficiency	99.5%
 
-total space   	857
-corrrect space	4
+total space	857
+correct space	4
 incorrect space	853
 efficien. space	0.5%
 
-total nospace   	164190
-corrrect nospace	164174
+total nospace	164190
+correct nospace	164174
 incorrect nospace	16
 efficiency nospace	100.0%
-

@@ -1,0 +1,20 @@
+checker	aspell
+library	0.60.7~20110707-1.3
+language	nl
+dictionary	1:2.10-3
+wordlist	opentaal210g_flexies.txt
+
+total	157311
+correct	152917
+incorrect	4394
+efficiency	97.2%
+
+total space	151
+correct space	0
+incorrect space	151
+efficien. space	0.0%
+
+total nospace	157160
+correct nospace	152917
+incorrect nospace	4243
+efficiency nospace	97.3%

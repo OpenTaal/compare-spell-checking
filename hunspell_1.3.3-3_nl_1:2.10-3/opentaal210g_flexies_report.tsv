@@ -1,21 +1,20 @@
-checker 	hunspell
-library 	1.3.3-3
+checker	hunspell
+library	1.3.3-3
 language	nl
 dictionary	1:2.10-3
 wordlist	opentaal210g_flexies.txt
 
-total   	157311
-corrrect	157161
+total	157311
+correct	157161
 incorrect	150
 efficiency	99.9%
 
-total space   	151
-corrrect space	2
+total space	151
+correct space	2
 incorrect space	149
 efficien. space	1.3%
 
-total nospace   	157160
-corrrect nospace	157159
+total nospace	157160
+correct nospace	157159
 incorrect nospace	1
 efficiency nospace	100.0%
-
