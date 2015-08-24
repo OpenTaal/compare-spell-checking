@@ -7,6 +7,16 @@ if [ ! -e ../$DESTINATION ]
 then
     mkdir ../$DESTINATION
 fi
-../check_hunspell.py verify ../$DESTINATION groeneboekje2005_lemmas.txt
-#../check_hunspell.py verify ../$DESTINATION groeneboekje2005_flexies.txt
+if [ -e groeneboekje2005_lemmas.txt ]
+then
+    ../check_hunspell.py verify ../$DESTINATION groeneboekje2005_lemmas.txt
+else
+    echo Missing word list groeneboekje2005_lemmas.txt
+fi
+#if [ -e groeneboekje2005_flexies.txt ]
+#then
+#   ../check_hunspell.py verify ../$DESTINATION groeneboekje2005_flexies.txt
+#else
+#    echo Missing word list groeneboekje2005_flexies.txt
+#fi
 cd ..
